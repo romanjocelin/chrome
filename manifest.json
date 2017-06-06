@@ -1,11 +1,11 @@
 {
-  "name": "Thomas & Friends Extension",
+  "name": "Lowriders For Life",
 
   "version": "1.0",
 
   "manifest_version": 2,
 
-  "description": "All images will be replaced with Thomas & Friends photos.",
+  "description": "All images will be replaced with Lowrider images.",
 
   "content_scripts": [
 

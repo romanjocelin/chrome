@@ -4,14 +4,7 @@
 	
     $.extend(self, {
         nCageImgs : [
-           '//add your own image URL here',
-'//add your own image URL here',
-'//add your own image URL here',
-'//add your own image URL here',
-'//add your own image URL here',
-'//add your own image URL here',
-'//add your own image URL here',
-'//add your own image URL here',
+           'https://cdn04.carsforsale.com/3/1005159/4212933/thumb/779858694.jpg',
         ],
         handleImages : function (lstImgs, time)
         {
